@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Who We Are"
+date:   2017-05-21 13:41:00 +0200
+categories: starting out
+---
+Let me introduce the founders of this enterprise we are launching and hope to turn into a value-adding business:
+
+Lorena Mendez Smith <a href="https://twitter.com/lorenamendezsmi">@LorenaMendezSmi</a> is an engineer with postgraduate studies in economics and management. She started out her professional career in the world of business consulting before leaving that behind to work with startups. She is as passionate as can be about entrepreneurship and rebuilding Venezuela.
+
+Sebastian Alarcon <a href="https://twitter.com/sebalarcons">@sebalarcons</a> is a mathematician with studies and expertise in finance. He has worked in several banks and ever increasingly with and within several startups. He likes to delve deep into complicated problems and figure them out from the root. He is a great communicator of ideas.
+
+Alfredo Chelminski <a href="https://twitter.com/alfredonch">@alfredonch</a> is an engineer who has worked in the technical aspects of the telecom world. He likes to break down products and challenge their design and execution. A learning junkie, he is tireless in the accumulation of information, trying to figure out where the world is headed.
