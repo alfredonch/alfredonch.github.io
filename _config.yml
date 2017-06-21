@@ -19,4 +19,5 @@ twitter_username: alfredonch
 github_username:  alfredonch
 
 # Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
