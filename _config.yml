@@ -20,4 +20,4 @@ github_username:  alfredonch
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
